@@ -1,0 +1,9 @@
+{
+  "gameType": "SURVIVAL",
+  "difficulty": "HARD",
+  "difficultyLocked": true,
+  "cheats": false,
+  "invited": [],
+  "shareResourcePack": false,
+  "oppedPlayers": []
+}
